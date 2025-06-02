@@ -1,6 +1,8 @@
 # Duplicate Question Pairs Detector
 
-![Demo](demo.png) <!-- You can add a screenshot later -->
+![Demo Screenshot](demo.png)  
+![image](https://github.com/user-attachments/assets/c1d26c9a-7c48-429c-8a4f-a65b22ee3afc)
+
 
 A Streamlit application that detects duplicate questions using machine learning.
 
